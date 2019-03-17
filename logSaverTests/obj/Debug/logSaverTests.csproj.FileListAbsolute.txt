@@ -1,0 +1,7 @@
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTests\obj\Debug\logSaverTests.csprojResolveAssemblyReference.cache
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTests\bin\Debug\logSaverTests.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTests\bin\Debug\logSaverTests.pdb
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTests\bin\Debug\logSaverTest.exe
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTests\bin\Debug\logSaverTest.pdb
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTests\obj\Debug\logSaverTests.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTests\obj\Debug\logSaverTests.pdb

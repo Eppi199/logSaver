@@ -1,0 +1,10 @@
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTest\bin\Debug\logSaverTest.exe.config
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTest\bin\Debug\logSaverTest.exe
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTest\bin\Debug\logSaverTest.pdb
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTest\bin\Debug\Google.Protobuf.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTest\bin\Debug\MySql.Data.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTest\bin\Debug\Google.Protobuf.xml
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTest\bin\Debug\MySql.Data.xml
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTest\obj\Debug\logSaver.csprojResolveAssemblyReference.cache
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTest\obj\Debug\logSaverTest.exe
+C:\Users\Александр\documents\visual studio 2013\Projects\logSaverTest\logSaverTest\obj\Debug\logSaverTest.pdb
